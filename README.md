@@ -1,3 +1,18 @@
+# Semaforo Simples com Arduino
+
+Projeto destinado a aprendizagem de programação embarcada com arduino
+
+---
+
+# Equipamentos Utilizadas
+
+- **Arduino Uno**
+- **3 Resistores**
+- **6 Jumpers (cabos)**
+- **1 Protoboard**
+
+---
+
 <p align="center">
-  <img src="C:\Users\psantana\Documents\PlatformIO\Projects\semaforo_simples\img\print.png" alt="Print do Projeto">
+  <img src=img\print.png alt="Print do Projeto">
 </p>
