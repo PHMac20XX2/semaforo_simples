@@ -18,11 +18,11 @@ Projeto destinado a aprendizagem de programação embarcada com arduino
 - **Circuito Digital**
 
 <p align="center">
-  <img src=img/print.png alt="Print do Projeto">
+  <img src=img/print1.png alt="Print do Projeto">
 </p>
 
 - **Circuito Real**
 
  <p align="center">
-  <img src=img/print.png alt="Print do Projeto">
+  <img src=img/print1.png alt="Print do Projeto">
 </p>
