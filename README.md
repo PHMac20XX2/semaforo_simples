@@ -4,7 +4,7 @@ Projeto destinado a aprendizagem de programação embarcada com arduino
 
 ---
 
-# Equipamentos Utilizadas
+# Equipamentos Utilizados
 
 - **Arduino Uno**
 - **3 Resistores**
@@ -13,6 +13,16 @@ Projeto destinado a aprendizagem de programação embarcada com arduino
 
 ---
 
+# Imagens do Projeto
+
+- **Circuito Digital**
+
 <p align="center">
-  <img src=img\print.png alt="Print do Projeto">
+  <img src=img/print.png alt="Print do Projeto">
+</p>
+
+- **Circuito Real**
+
+ <p align="center">
+  <img src=img/print.png alt="Print do Projeto">
 </p>
